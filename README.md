@@ -1,3 +1,7 @@
+Nb : a coler dans tria.ge
+pour avoir du rdp
+
+
 for windows
 
 start-process PowerShell -verb runas
